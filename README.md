@@ -1,1 +1,1 @@
-# Generador_Contrase-as
+Generador de Contraseñas es una aplicación móvil desarrollada en Flutter y Dart. Permite al usuario generar contraseñas seguras de forma personalizada, ajustando la longitud mediante un control deslizante (entre 4 y 16 caracteres) y eligiendo qué tipos de caracteres incluir: mayúsculas, números y símbolos. Además, la aplicación muestra un indicador de fortaleza (Débil, Media o Fuerte) calculado según la longitud y variedad de caracteres seleccionados, ayudando al usuario a crear contraseñas más robustas.
